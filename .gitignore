@@ -1,0 +1,12 @@
+.venv/
+**/__pycache__/
+*.pyc
+
+# Raw village assets (not required deliverables)
+*.tif
+*/input.geojson
+*/example_truths.geojson
+
+# Local artifacts
+/SUBMISSION_CHECKLIST.md
+/submission_form_draft.json
